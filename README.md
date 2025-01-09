@@ -64,5 +64,5 @@ This analysis highlights the potential of data-driven strategies to achieve ener
 
 ## Project Files  
 - **Code**: Available in the Jupyter Notebook.  
-- **Dashboard** (optional): Interactive visualizations for energy cost analysis.  
+- **Dashboard**: Interactive visualizations for energy cost analysis.  
 - **Presentation**: Summary of findings and methodology.  
